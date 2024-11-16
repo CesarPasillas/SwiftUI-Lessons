@@ -7,7 +7,7 @@ Lesson 1 [L1Demo](Lesson1/L1Demo) - The typical Hello World!, but it explains ho
 
 Lesson 2 [L3Demo](Lesson2/L3Demo) - The lesson focuses on Designing the UI. How to use the HStack, Rectangle, SF symbols, and viewModifiers; like background, and apply them to the Stack structures.
 
-Lesson 3 [AGameDemo](Lesson 3/AGame) - The creation of our first game.
+Lesson 3 [AGameDemo](Lesson3/AGame) - The creation of our first game. Use Int.random, variables, and the modifier @State.
 
 ##
 <a href="https://programmingsquirrel.wordpress.com/">

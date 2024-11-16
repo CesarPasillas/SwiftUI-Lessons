@@ -4,6 +4,7 @@ This repository has the lessons related to SwiftUI
 # :construction: Project Under Construction :construction:
 
 Lesson 1 [L1Demo](Lesson1/L1Demo) - The typical Hello World!, but it explains how to use ZStack, VStack, Image, and Text structs.
+Lesson 2 [L3Demo](Lesson2/L3Demo) - The lesson focuses on Design on UI, now uses the HStack, Rectangle, SF symbols, and viewModifiers; like background, and apply them into the Stack structures.
 
 ##
 <a href="https://programmingsquirrel.wordpress.com/">
